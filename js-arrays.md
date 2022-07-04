@@ -278,6 +278,7 @@ for (let score of scores) {
 
 // sum => 343
 ```
+---
 
 Here's the example we went over in class, logging each step so you can see what is happening:
 

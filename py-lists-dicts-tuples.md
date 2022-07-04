@@ -19,7 +19,7 @@ They are indexed like JS arrays and trailing commas can be used.
 >>> nerf_guns[0]
 'Rampage'
 ```
-
+---
 ### Examples of frequently used list methods
 
 - `append()`
@@ -58,7 +58,7 @@ Trailing commas also 👍 in dictionaries, as in lists.
     'papayas': 2,
     }
 ```
-
+---
 ### Obtain values by their keys, NOT their position
 
 You have to use square brackets enclosing a string to retrieve values by their key.
@@ -69,6 +69,7 @@ You have to use square brackets enclosing a string to retrieve values by their k
 >>> fruit_amounts['apples']
 3
 ```
+---
 
 ### Add or reassign values to dictionaries
 

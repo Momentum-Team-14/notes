@@ -23,6 +23,8 @@ Predict what you think will happen.
 
 Then, run it and check your expectations against what happens.
 
+---
+
 ```py
 
 def greet(names):

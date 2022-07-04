@@ -220,6 +220,7 @@ button.addEventListener('click', function () {
   alert('Are you sure you want to cancel?')
 })
 ```
+---
 
 Here we are passing two arguments to the event listener method:
 
