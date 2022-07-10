@@ -28,3 +28,8 @@
 - [Database: PKs and FKs](pks_and_fks.md)
 - [Diagram of O2M and M2M model relationships](O2M-and-M2M.md)
 - [Diagram with more O2M and M2M model relationships](more-models-and-rels.md)
+
+### Phase 3
+
+- [Django Queries Cheatsheet](django-queries.md)
+- [JS for React](js-for-react.md)
