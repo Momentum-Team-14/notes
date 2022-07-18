@@ -49,7 +49,7 @@
 1. Create a folder and put a new basic html file in it. Make sure to include `DOCTYPE` and all the standard parts of any html page. It does not need to have any `body` content.
 2. Create a file called `main.js`.
 3. In that file, type the following line, and be sure to save the file:
-   `console.log("Hello, World!")`
+   `console.log("My JavaScript is connected to my HTML!")`
 4. Link your JS file to your html page: put a `script` tag with a `src` attribute that links to your javascript file in the `<head>` element in your html document:
    `<script src="main.js"></script>`
 5. Load the html page in the browser.
@@ -201,7 +201,7 @@ points++ // same as points = points + 1
 ## Write some JavaScript 2
 
 1. Clone the following repo:
-   [`https://github.com/Momentum-Team-11/exercise--js-hello-world`](https://github.com/Momentum-Team-11/exercise--js-hello-world)
+   [`https://github.com/Momentum-Team-14/exercise-js-hello-world`](https://github.com/Momentum-Team-14/exercise-js-hello-world)
 2. Open the repo in VS Code. You'll be working on the exercises in `intro.js`.
 3. Open `index.html` in your browser.
 4. In the browser, open the dev tools and go to the JavaScript console by clicking on the "Console" tab.
