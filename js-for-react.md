@@ -400,6 +400,6 @@ OK, but when do I need the curly brackets around stuff I want to import and when
 
 #### How do I know if I am using a default or named export?
 
-You have to go look at the file, or rely on the documentation if you are using a library.
+You have to go look at the file to see if it uses the `default` keyword with the `export` statement, or rely on the documentation if you are using a library.
 
 ---
