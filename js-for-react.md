@@ -295,11 +295,11 @@ function loadingMessage(isLoading) {
 
 ## `map()`
 
-You'll use this all the time in React when you want to show lists of things. It's an array method that is useful when you have an array that you want to transform into a new array.
+You'll use this all the time in React when you want to display a collection of elements. It's an array method that lets you create a new array based on the values in an existing array. 
 
 This method takes an argument that is a function. Usually you'll see it as an arrow function, but it would work with the `function` keyword as well.
 
-`.map()` will loop through the array for you. Its function (the one you pass as an argument to `.map()`) will be called for each item in the array, using that item as an argument. The body of the function can use that argument to produce and return a new value. That value is added to a new array, which is returned by `.map()`, leaving the original array unchanged.
+`.map()` loops through an array for you. Its callback function (the one you pass to it as an argument) will be automatically called for each item in the array, using that item as its own argument. The body of the function can use that argument (the item in the original array!) to produce and return a new value. That value is added to a new array. When it's done looping through each item in the original array, `.map()` will return the new array it has created, leaving the original array unchanged.
 
 ![](img/js-map.png)
 
